@@ -3,6 +3,8 @@
 body {
   font-family: 'Abril Fatface';
   background-color: #1e0c00;
+  color: #FFFFFF;
+  text-align: center;
 }
 
 .pizza {
@@ -91,13 +93,6 @@ a {
   right: 1100px;
 }
 
-p {
-  color: #FFFFFF;
-  margin-left: 0px;
-  margin-top: 20px;
-  font-size: 19.56px;
-}
-
 h1 {
   color: #FFFFFF;
   margin-left: 40px;
@@ -160,10 +155,6 @@ a {
   color: white;
 }
 
-p {
-  border-radius: 100%;
-}
-
 .eagle {
   border-radius: 100px;
   background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
@@ -207,10 +198,6 @@ p {
 
 .red {
   left: 70px;
-}
-
-p {
-  text-align: center;
 }
 
 .santa {
