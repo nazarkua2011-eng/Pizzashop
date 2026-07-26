@@ -853,6 +853,10 @@ p {
     outline: 2px solid red;
   }
 
+  .main-photos{
+    outline: 2px solid red;
+  }
+
   .fries {
     display: flex;
     justify-content: center;
@@ -953,6 +957,7 @@ p {
     top: -35px;
     left: 132px;
     width: 335px;
+  }
 
 
     .bottom {
