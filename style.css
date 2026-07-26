@@ -845,17 +845,7 @@ a {
     outline: 2px solid red;
     width: 400px;
   }
-
-  .fries {
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    flex-direction: column;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-  }
-
+  
   .main {
     display: flex;
     justify-content: center;
@@ -1267,4 +1257,40 @@ a {
   .popular-title {
     font-size: 35px;
   }
+
+  /* Footer */
+
+  .footer {
+    background-color: #140600;
+    margin-top: 200px;
+    padding: 20px;
+    /* gap: 261px; */
+    width: 400px;
+    outline: 2px solid red;
+  }
+
+  .footer-image{
+    width: 170px;
+    height: 40px;
+  }
+
+  .footer-logo-box {
+    display: flex;
+    justify-content: start;
+    gap: 261px;
+    margin-top: 5px;
+  }
+  
+  .fries {
+    display: flex;
+    justify-content: center;
+    gap: 56px;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    top: 130px;
+    right: 421px;
+  }
+
+
 }
