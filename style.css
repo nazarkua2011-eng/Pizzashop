@@ -838,10 +838,12 @@ a {
     margin-top: 40px;
     flex-direction: column;
     outline: 2px solid red;
+    width: 400px;
   }
 
   .main-photos {
     outline: 2px solid red;
+    width: 400px;
   }
 
   .fries {
@@ -867,6 +869,7 @@ a {
     width: 400px;
     margin-top: -778px;
     outline: 2px solid red;
+    margin-left: -22px;
   }
 
   .video-wrapper {
@@ -910,12 +913,13 @@ a {
   .play-button2 {
     z-index: 2;
     position: relative;
-    top: -143px;
+    top: -142px;
+    left: -5px;
   }
 
   .text-focus-in {
     color: #FFFFFF;
-    margin-left: 40px;
+    margin-left: 0px;
     margin-top: 25px;
     font-size: 49.17px;
   }
@@ -930,7 +934,7 @@ a {
 
   .text-focus-in3 {
     color: #FFFFFF;
-    margin-left: -66px;
+    margin-left: -2px;
     margin-top: 20px;
     font-size: 19.56px;
   }
@@ -942,20 +946,22 @@ a {
   .top {
     position: relative;
     top: -35px;
-    left: 132px;
+    left: -55px;
     width: 335px;
   }
 
 
   .bottom {
     position: relative;
+    left: -209px;
+    top: -275px;
     width: 175px;
   }
 
   .left {
     position: relative;
-    bottom: 141px;
-    left: -236px;
+    bottom: 200px;
+    left: -125px;
     width: 175px;
   }
 
@@ -1090,7 +1096,7 @@ a {
 
   .down {
     position: relative;
-    right: -95px;
+    right: 49px;
     bottom: -15px;
     z-index: -1;
     width: 120px;
