@@ -872,8 +872,9 @@ p {
   }
 
   .pie {
-    width: 467px;
-    margin-top: -455px;
+    width: 400px;
+    margin-top: -778px;
+    outline: 2px solid red;
   }
 
   .video-wrapper {
