@@ -1238,7 +1238,7 @@ a {
   }
 
   .price-pizza {
-    font-size: 19px;
+    font-size: 16px;
   }
 
   .duck {
@@ -1260,8 +1260,7 @@ a {
     justify-content: center;
     background-image: url('Rectangle\ 13.png');
     align-items: center;
-
-
+    grid-column: 1 / -1;
     margin: 0 auto;
   }
 
