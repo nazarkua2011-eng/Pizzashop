@@ -853,7 +853,7 @@ p {
     outline: 2px solid red;
   }
 
-  .main-photos{
+  .main-photos {
     outline: 2px solid red;
   }
 
@@ -960,320 +960,319 @@ p {
   }
 
 
-    .bottom {
-      position: relative;
-      width: 175px;
-    }
+  .bottom {
+    position: relative;
+    width: 175px;
+  }
 
-    .left {
-      position: relative;
-      bottom: 141px;
-      left: -236px;
-      width: 175px;
-    }
+  .left {
+    position: relative;
+    bottom: 141px;
+    left: -236px;
+    width: 175px;
+  }
 
-    h1 {
-      color: #FFFFFF;
-      margin-left: 212px;
-      margin-top: 25px;
-      font-size: 69.17px;
-    }
+  h1 {
+    color: #FFFFFF;
+    margin-left: 212px;
+    margin-top: 25px;
+    font-size: 69.17px;
+  }
 
-    .class2 {
-      font-size: 40px;
-      color: #FFFFFF;
-      margin-left: -12px;
-    }
+  .class2 {
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-left: -12px;
+  }
 
-    /* Event pictures */
-    .row {
-      display: flex;
-      position: relative;
-      flex-wrap: wrap;
-      outline: 2px solid red;
-      width: 390px;
-    }
-
-
-    .hex {
-      width: 350px;
-      height: 255px;
-      margin-left: auto;
-      border-top-left-radius: 9%;
-      border-top-right-radius: 9%;
-      display: none;
-    }
-
-    .pet {
-      width: 385px;
-      height: 260px;
-      margin-left: auto;
-      border-radius: 9%;
-      display: none;
-    }
-
-    .qatar {
-      width: 200px;
-      height: 260px;
-      margin-left: 30px;
-    }
-
-    .level {
-      width: 200px;
-      height: 260px;
-      margin-left: 30px;
-      margin-top: -114px;
-
-    }
-
-    .dog {
-      width: 370px;
-      height: 260px;
-      margin-left: auto;
-      border-radius: 9%;
-      display: none;
-    }
-
-    .cat {
-      position: absolute;
-      top: 273px;
-      left: -16px;
-      width: 120px;
-    }
-
-    .giraffe {
-      position: absolute;
-      right: 105px;
-      top: -15px;
-      width: 120px;
-    }
+  /* Event pictures */
+  .row {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    outline: 2px solid red;
+    width: 390px;
+  }
 
 
-    /* Event-writting */
+  .hex {
+    width: 350px;
+    height: 255px;
+    margin-left: auto;
+    border-top-left-radius: 9%;
+    border-top-right-radius: 9%;
+    display: none;
+  }
 
-    .devils-lake {
-      display: flex;
-      justify-content: flex-start;
-      font-size: 37px;
-      position: relative;
-      top: 230px;
-      right: -37px;
-    }
+  .pet {
+    width: 385px;
+    height: 260px;
+    margin-left: auto;
+    border-radius: 9%;
+    display: none;
+  }
 
-    .fish {
-      width: 148px;
-      margin-left: 145px;
-      font-size: 12px;
-      position: relative;
-      top: 220px;
-      right: -87px;
-    }
+  .qatar {
+    width: 200px;
+    height: 260px;
+    margin-left: 30px;
+  }
 
-    /* About us writting */
+  .level {
+    width: 200px;
+    height: 260px;
+    margin-left: 30px;
+    margin-top: -114px;
 
-    .log {
-      width: 397px;
-      position: relative;
-      outline: 2px solid red;
-    }
+  }
 
-    .about-us-h1 {
-      font-size: 40px;
-      width: 182px;
-      position: relative;
-      left: -89px;
-    }
+  .dog {
+    width: 370px;
+    height: 260px;
+    margin-left: auto;
+    border-radius: 9%;
+    display: none;
+  }
 
-    .five {
-      width: 200px;
-      font-size: 12px;
-      position: relative;
-      left: 11px;
-    }
+  .cat {
+    position: absolute;
+    top: 273px;
+    left: -16px;
+    width: 120px;
+  }
 
-    /* About us photo */
-
-    .sit {
-      position: absolute;
-      bottom: 138px;
-      left: 40px;
-      z-index: 1;
-      width: 120px;
-    }
-
-    .down {
-      position: relative;
-      right: -95px;
-      bottom: -15px;
-      z-index: -1;
-      width: 120px;
-    }
-
-    .up {
-      position: absolute;
-      right: 280px;
-      bottom: 99px;
-      z-index: -1;
-      width: 120px;
-    }
-
-    .word {
-      position: absolute;
-      top: 234px;
-      right: 517px;
-      display: none;
-    }
-
-    .let {
-      position: absolute;
-      top: 190px;
-      right: 235px;
-      display: none;
-    }
-
-    .team {
-      position: relative;
-      top: -320px;
-      right: -205px;
-      width: 190px;
-    }
-
-    .team2 {
-      position: relative;
-      top: -408px;
-      right: -129px;
-      width: 100px;
-    }
-
-    .team3 {
-      position: relative;
-      top: -270px;
-      left: -108px;
-      width: 100px;
-    }
-
-    /* Menu buttons */
-
-    .product {
-      display: flex;
-      justify-content: flex-start;
-      gap: 25px;
-      margin-left: 410px;
-      flex-direction: column;
-      margin-left: -6px;
-      width: 397px;
-      outline: 2px solid red;
-    }
-
-    .mushroom {
-      border-radius: 50px;
-      background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
-      padding: 8px;
-      padding-left: 36px;
-      padding-right: 36px;
-      color: white;
-      width: 59px;
-      margin-left: 6px;
-      font-size: 13px;
-    }
-
-    .a2,
-    .a3,
-    .a4,
-    .a5 {
-      font-size: 15px;
-      position: relative;
-      right: 125px;
-    }
-
-    /* Menu orders */
-
-    .main {
-      display: grid;
-      grid-template-columns: repeat(2, 155px);
-      justify-content: center;
-      gap: 20px;
-      height: auto;
-    }
+  .giraffe {
+    position: absolute;
+    right: 105px;
+    top: -15px;
+    width: 120px;
+  }
 
 
-    .road {
-      border-radius: 30px;
-      background-color: #210a01;
-      width: 155px;
-      height: 500px;
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
+  /* Event-writting */
 
-    .red {
-      width: 115px;
-    }
+  .devils-lake {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 37px;
+    position: relative;
+    top: 230px;
+    right: -37px;
+  }
 
-    /* Menu cards */
+  .fish {
+    width: 148px;
+    margin-left: 145px;
+    font-size: 12px;
+    position: relative;
+    top: 220px;
+    right: -87px;
+  }
 
-    .text-pizza {
-      font-size: 18px;
-    }
+  /* About us writting */
 
-    .fillings-pizza {
-      width: 185px;
-      font-size: 16px;
-    }
+  .log {
+    width: 397px;
+    position: relative;
+    outline: 2px solid red;
+  }
 
-    .circle {
-      border: #FFFFFF solid 2px;
-      border-radius: 50%;
-      width: 27px;
-      height: 27px;
-      font-size: 15px;
-      position: relative;
-      top: 5px;
-    }
+  .about-us-h1 {
+    font-size: 40px;
+    width: 182px;
+    position: relative;
+    left: -89px;
+  }
 
-    .eagle {
-      border-radius: 100px;
-      background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
-      padding: 5px;
-      width: 25px;
-      height: 25px;
-      font-size: 16px;
-      position: relative;
-      top: 3px;
-    }
+  .five {
+    width: 200px;
+    font-size: 12px;
+    position: relative;
+    left: 11px;
+  }
 
-    .price-pizza {
-      font-size: 19px;
-    }
+  /* About us photo */
 
-    .duck {
-      border-radius: 50px;
-      background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
-      padding-top: 8px;
-      padding-bottom: 8px;
-      padding-left: 40px;
-      padding-right: 40px;
-      font-size: 14px;
-    }
+  .sit {
+    position: absolute;
+    bottom: 138px;
+    left: 40px;
+    z-index: 1;
+    width: 120px;
+  }
 
-    /* Menu Most Popular sign */
+  .down {
+    position: relative;
+    right: -95px;
+    bottom: -15px;
+    z-index: -1;
+    width: 120px;
+  }
 
-    .popular {
-      width: 400px;
-      height: 242.64px;
-      display: flex;
-      justify-content: center;
-      background-image: url('/lesson12/Rectangle\ 13.png');
-      align-items: center;
+  .up {
+    position: absolute;
+    right: 280px;
+    bottom: 99px;
+    z-index: -1;
+    width: 120px;
+  }
+
+  .word {
+    position: absolute;
+    top: 234px;
+    right: 517px;
+    display: none;
+  }
+
+  .let {
+    position: absolute;
+    top: 190px;
+    right: 235px;
+    display: none;
+  }
+
+  .team {
+    position: relative;
+    top: -320px;
+    right: -205px;
+    width: 190px;
+  }
+
+  .team2 {
+    position: relative;
+    top: -408px;
+    right: -129px;
+    width: 100px;
+  }
+
+  .team3 {
+    position: relative;
+    top: -270px;
+    left: -108px;
+    width: 100px;
+  }
+
+  /* Menu buttons */
+
+  .product {
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin-left: 410px;
+    flex-direction: column;
+    margin-left: -6px;
+    width: 397px;
+    outline: 2px solid red;
+  }
+
+  .mushroom {
+    border-radius: 50px;
+    background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
+    padding: 8px;
+    padding-left: 36px;
+    padding-right: 36px;
+    color: white;
+    width: 59px;
+    margin-left: 6px;
+    font-size: 13px;
+  }
+
+  .a2,
+  .a3,
+  .a4,
+  .a5 {
+    font-size: 15px;
+    position: relative;
+    right: 125px;
+  }
+
+  /* Menu orders */
+
+  .main {
+    display: grid;
+    grid-template-columns: repeat(2, 155px);
+    justify-content: center;
+    gap: 20px;
+    height: auto;
+  }
 
 
-      margin: 0 auto;
-    }
+  .road {
+    border-radius: 30px;
+    background-color: #210a01;
+    width: 155px;
+    height: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
-    .popular-title {
-      font-size: 35px;
-    }
+  .red {
+    width: 115px;
+  }
+
+  /* Menu cards */
+
+  .text-pizza {
+    font-size: 18px;
+  }
+
+  .fillings-pizza {
+    width: 185px;
+    font-size: 16px;
+  }
+
+  .circle {
+    border: #FFFFFF solid 2px;
+    border-radius: 50%;
+    width: 27px;
+    height: 27px;
+    font-size: 15px;
+    position: relative;
+    top: 5px;
+  }
+
+  .eagle {
+    border-radius: 100px;
+    background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
+    padding: 5px;
+    width: 25px;
+    height: 25px;
+    font-size: 16px;
+    position: relative;
+    top: 3px;
+  }
+
+  .price-pizza {
+    font-size: 19px;
+  }
+
+  .duck {
+    border-radius: 50px;
+    background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 14px;
+  }
+
+  /* Menu Most Popular sign */
+
+  .popular {
+    width: 400px;
+    height: 242.64px;
+    display: flex;
+    justify-content: center;
+    background-image: url('/lesson12/Rectangle\ 13.png');
+    align-items: center;
+
+
+    margin: 0 auto;
+  }
+
+  .popular-title {
+    font-size: 35px;
   }
 }
