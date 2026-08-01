@@ -845,7 +845,7 @@ a {
     outline: 2px solid red;
     width: 400px;
   }
-  
+
   .main {
     display: flex;
     justify-content: center;
@@ -1264,12 +1264,19 @@ a {
     background-color: #140600;
     margin-top: 200px;
     padding: 20px;
-    /* gap: 261px; */
+    gap: 261px;
     width: 400px;
     outline: 2px solid red;
   }
 
-  .footer-image{
+  .footer-main-box {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    outline: 2px solid red;
+  }
+
+  .footer-image {
     width: 170px;
     height: 40px;
   }
@@ -1280,16 +1287,36 @@ a {
     gap: 261px;
     margin-top: 5px;
   }
-  
+
+  .footer-box {
+    display: flex;
+    margin-left: 10px;
+    padding-top: 119px;
+  }
+
   .fries {
     display: flex;
     justify-content: center;
-    gap: 56px;
-    flex-direction: column;
+    gap: 40px;
+    flex-direction: row;
     text-align: center;
     position: relative;
     top: 130px;
-    right: 421px;
+    right: 397px;
+  }
+
+  .list-links {
+    width: 150px;
+    outline: 2px solid transparent;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  .list-links-subclass {
+    color: #515151;
+
+    display: block;
   }
 
 
