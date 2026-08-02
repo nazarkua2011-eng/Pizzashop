@@ -862,8 +862,16 @@ a {
     width: 400px;
   }
 
+  .you {
+    width: 400px;
+    height: 825px;
+    outline: 2px solid transparent;
+    margin: 0 auto;
+    margin-top: 90px;
+  }
+
   .main-photos {
-    outline: 2px solid red;
+    /* outline: 2px solid red; */
     width: 400px;
   }
 
@@ -876,10 +884,23 @@ a {
     margin-top: 960px;
   }
 
+  .div { 
+    border-radius: 50px;
+    background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
+    padding: 7px;
+    text-align: start;
+    color: #FFFFFF;
+    font-size: 13.74px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-right: 250px;
+    width: 39px;
+  }
+
   .pie {
     width: 400px;
     margin-top: -778px;
-    outline: 2px solid red;
+    /* outline: 2px solid red; */
     margin-left: -22px;
   }
 
@@ -957,14 +978,14 @@ a {
   .top {
     position: relative;
     top: -35px;
-    left: -55px;
+    left: 76px;
     width: 335px;
   }
 
 
   .bottom {
     position: relative;
-    left: -209px;
+    left: -65px;
     top: -275px;
     width: 175px;
   }
@@ -972,7 +993,7 @@ a {
   .left {
     position: relative;
     bottom: 200px;
-    left: -125px;
+    left: -1px;
     width: 175px;
   }
 
@@ -1193,19 +1214,19 @@ a {
   /* Menu orders */
 
   .main {
-    display: grid;
-    grid-template-columns: repeat(2, 155px);
+    display: flex;
     justify-content: center;
     gap: 20px;
     height: auto;
+
   }
 
 
   .road {
     border-radius: 30px;
     background-color: #210a01;
-    width: 155px;
-    height: 500px;
+    width: 115px;
+    height: 410px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -1219,12 +1240,12 @@ a {
   /* Menu cards */
 
   .text-pizza {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .fillings-pizza {
-    width: 185px;
-    font-size: 16px;
+    width: 128px;
+    font-size: 12px !important;
   }
 
   .circle {
@@ -1255,11 +1276,18 @@ a {
   .duck {
     border-radius: 50px;
     background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
-    padding-top: 8px;
-    padding-bottom: 8px;
-    padding-left: 40px;
-    padding-right: 40px;
-    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 26px;
+    padding-right: 28px;
+    font-size: 11px;
+    width: 60px;
+  }
+
+  .truck {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
   }
 
   /* Menu Most Popular sign */
@@ -1297,7 +1325,7 @@ a {
     gap: 40px;
     width: 100%;
     max-width: 400px;
-    outline: 2px solid red;
+    /* outline: 2px solid red; */
   }
 
   .footer-image {
@@ -1323,13 +1351,11 @@ a {
 
   .fries {
     display: flex;
-    justify-content: center;
-    gap: 40px;
-    flex-direction: row;
+    justify-content: start;
+    gap: 20px;
+    flex-direction: column;
     text-align: center;
-    position: relative;
-    top: 130px;
-    right: 397px;
+    margin-right: 252px;
   }
 
   .list-links {
@@ -1356,11 +1382,16 @@ a {
 
   .magic {
     width: 40px;
-}
+  }
 
-.footer-fries, .footer-box {
-  display: flex;
-  justify-content: space-between;
-}
+  .footer-fries,
+  .footer-box {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .top-fries {
+    margin-bottom: 20px;
+  }
 
 }
