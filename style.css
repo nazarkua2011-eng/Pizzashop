@@ -426,16 +426,10 @@ a {
 .magic-five {
   display: flex;
   justify-content: flex-start;
-  margin-top: 258px;
-  font-size: 30px;
-  color: darkorange;
-}
-
-.magic {
-  width: 50px;
-}
-
-.lemonade {
+    margin-top: 20px;
+    font-size: 36px;
+    color: orange;
+    width: auto;
   display: flex;
   justify-content: flex-end;
   gap: 25px;
@@ -1406,10 +1400,11 @@ a {
   .magic-five {
     display: flex;
     justify-content: flex-start;
-    margin-top: 240px;
-    font-size: 30px !important;
+    margin-top: 20px;
+    font-size: 34px !important;
     color: orange !important;
     padding-bottom: 8px;
+    width: auto;
   }
 
   .magic {
