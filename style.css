@@ -1407,8 +1407,8 @@ a {
     display: flex;
     justify-content: flex-start;
     margin-top: 240px;
-    font-size: 25px !important;
-    color: darkorange !important;
+    font-size: 30px !important;
+    color: orange !important;
     padding-bottom: 8px;
   }
 
