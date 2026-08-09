@@ -858,7 +858,7 @@ a {
     justify-content: space-around;
     margin-top: 40px;
     flex-direction: column;
-    outline: 2px solid red;
+    /* outline: 2px solid red; */
     width: 400px;
   }
 
@@ -866,7 +866,7 @@ a {
 
   .you {
     width: 400px;
-    height: 825px;
+    height: 308px;
     outline: 2px solid transparent;
     margin: 0 auto;
     margin-top: 90px;
@@ -889,6 +889,7 @@ a {
   .pizzashop-sign {
     width: 185px;
     margin: 0 auto;
+    margin-bottom: 13px;
   }
 
   .div {
@@ -898,8 +899,8 @@ a {
     text-align: start;
     color: #FFFFFF;
     font-size: 11.74px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 37px;
+    padding-right: 37px;
     /* margin-right: 250px; */
     width: auto;
     white-space: nowrap;
@@ -914,7 +915,7 @@ a {
 
   .pie {
     width: 400px;
-    margin-top: -778px;
+    margin-top: -1440px;
     /* outline: 2px solid red; */
     margin-left: -22px;
   }
@@ -922,7 +923,8 @@ a {
   .video-wrapper {
     position: relative;
     display: inline-block;
-    width: 450px;
+    width: 390px;
+    margin-top: 50px;
   }
 
   .product {
@@ -937,22 +939,17 @@ a {
     width: 108px;
   }
 
-  .video-wrapper {
-    position: relative;
-    display: inline-block;
-    margin-top: 50px;
-  }
-
   .video-pizza {
-    width: 360px;
+    width: 330px;
     display: block;
+    height: auto;
   }
 
   .play-button,
   .play-button2 {
     position: absolute;
-    top: 49%;
-    left: 46%;
+    top: 45%;
+    left: 47%;
     transform: translate(-50%, -50%);
     cursor: pointer;
   }
@@ -960,22 +957,22 @@ a {
   .play-button2 {
     z-index: 2;
     position: relative;
-    top: -142px;
-    left: -5px;
+    top: -94px;
+    left: 2px;
   }
 
   .text-focus-in {
     color: #FFFFFF;
     margin-left: 0px;
     margin-top: 25px;
-    font-size: 49.17px;
+    font-size: 44.17px;
   }
 
   .text-focus-in2 {
     color: #FFFFFF;
     margin-left: 40px;
     margin-top: 20px;
-    font-size: 19.56px;
+    font-size: 14.56px;
     width: 300px;
   }
 
@@ -983,7 +980,7 @@ a {
     color: #FFFFFF;
     margin-left: -2px;
     margin-top: 20px;
-    font-size: 19.56px;
+    font-size: 14.56px;
   }
 
   .lighting-image {
@@ -1023,6 +1020,7 @@ a {
     font-size: 40px;
     color: #FFFFFF;
     margin-left: -12px;
+    margin-top: -660px;
   }
 
   /* Event pictures */
@@ -1030,8 +1028,9 @@ a {
     display: flex;
     position: relative;
     flex-wrap: wrap;
-    outline: 2px solid red;
+    /* outline: 2px solid red; */
     width: 390px;
+    margin-top: -225px;
   }
 
 
@@ -1096,7 +1095,7 @@ a {
     justify-content: flex-start;
     font-size: 37px;
     position: relative;
-    top: 230px;
+    top: 7px;
     right: -37px;
   }
 
@@ -1105,7 +1104,7 @@ a {
     margin-left: 145px;
     font-size: 12px;
     position: relative;
-    top: 220px;
+    top: -4px;
     right: -87px;
   }
 
@@ -1114,7 +1113,7 @@ a {
   .log {
     width: 397px;
     position: relative;
-    outline: 2px solid red;
+    /* outline: 2px solid red; */
   }
 
   .about-us-h1 {
@@ -1231,7 +1230,7 @@ a {
   .main2 {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 15px;
     height: auto;
     flex-direction: row;
     flex-wrap: wrap;
@@ -1244,7 +1243,7 @@ a {
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    gap: 20px;
+    gap: 15px;
     flex-direction: row;
     flex-wrap: wrap;
   }
@@ -1276,8 +1275,8 @@ a {
   }
 
   .fillings-pizza {
-    width: 128px;
-    font-size: 12px !important;
+    width: 110px;
+    font-size: 10px !important;
   }
 
   .circle {
@@ -1310,8 +1309,8 @@ a {
     background-image: linear-gradient(to left, #FF5D29, #FE9C1C);
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 26px;
-    padding-right: 28px;
+    padding-left: 23px;
+    padding-right: 23px;
     font-size: 11px;
     width: 60px;
   }
@@ -1319,13 +1318,13 @@ a {
   .truck {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 6px;
   }
 
   /* Menu Most Popular sign */
 
   .popular {
-    width: 400px;
+    width: 369px;
     height: 185.64px;
     display: flex;
     justify-content: center;
@@ -1343,7 +1342,7 @@ a {
 
   .footer {
     background-color: #140600;
-    margin-top: 200px;
+    margin-top: 15px;
     padding: 20px;
     gap: 261px;
     width: 100%;
@@ -1425,6 +1424,14 @@ a {
 
   .top-fries {
     margin-bottom: 20px;
+  }
+
+  .lemonade {
+    display: flex;
+    justify-content: flex-end;
+    gap: 25px;
+    margin-top: -75px;
+    margin-right: 10px;
   }
 
 }
