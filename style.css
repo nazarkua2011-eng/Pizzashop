@@ -990,23 +990,23 @@ a {
   .top {
     position: relative;
     top: -35px;
-    left: 76px;
-    width: 335px;
+    left: 70px;
+    width: 300px;
   }
 
 
   .bottom {
     position: relative;
-    left: -65px;
-    top: -275px;
-    width: 175px;
+    left: -75px;
+    top: -214px;
+    width: 140px;
   }
 
   .left {
     position: relative;
-    bottom: 200px;
+    bottom: 169px;
     left: -1px;
-    width: 175px;
+    width: 140px;
   }
 
   h1 {
