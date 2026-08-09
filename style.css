@@ -958,7 +958,7 @@ a {
     z-index: 2;
     position: relative;
     top: -94px;
-    left: 2px;
+    left: 2px !important;
   }
 
   .text-focus-in {
@@ -1407,8 +1407,8 @@ a {
     display: flex;
     justify-content: flex-start;
     margin-top: 240px;
-    font-size: 25px;
-    color: darkorange;
+    font-size: 25px !important;
+    color: darkorange !important;
     padding-bottom: 8px;
   }
 
