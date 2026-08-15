@@ -426,10 +426,10 @@ a {
 .magic-five {
   display: flex;
   justify-content: flex-start;
-    margin-top: 20px;
-    font-size: 36px;
-    color: orange;
-    width: auto;
+  margin-top: 20px;
+  font-size: 36px;
+  color: orange;
+  width: auto;
   display: flex;
   justify-content: flex-end;
   gap: 25px;
@@ -1429,12 +1429,12 @@ a {
     margin-right: 10px;
   }
 
+  footer .lemonade .magic-five,
+  footer .magic-five {
+    color: orange !important;
+    font-size: 34px !important;
+    line-height: 1;
+  }
 }
 
 /* Strong override to ensure footer phone number is visible on all devices */
-footer .lemonade .magic-five,
-footer .magic-five {
-  color: orange !important;
-  font-size: 34px !important;
-  line-height: 1;
-}
