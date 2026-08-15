@@ -1401,7 +1401,7 @@ a {
     display: flex;
     justify-content: flex-start;
     margin-top: 20px;
-    font-size: 27px !important;
+    font-size: 5px !important;
     color: orange !important;
     padding-bottom: 8px;
     width: auto;
@@ -1429,12 +1429,11 @@ a {
     margin-right: 10px;
   }
 
-  footer .lemonade .magic-five,
+  /* footer .lemonade .magic-five,
   footer .magic-five {
     color: orange !important;
     font-size: 34px !important;
     line-height: 1;
-  }
+  } */
 }
 
-/* Strong override to ensure footer phone number is visible on all devices */
