@@ -1430,3 +1430,11 @@ a {
   }
 
 }
+
+/* Strong override to ensure footer phone number is visible on all devices */
+footer .lemonade .magic-five,
+footer .magic-five {
+  color: orange !important;
+  font-size: 34px !important;
+  line-height: 1;
+}
